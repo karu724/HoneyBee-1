@@ -5,9 +5,9 @@
   "description": "Bee Online Minecraft Launcher",
   "author": "Karu Han (https://github.com/karu724)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/karu724/HoneyBee",
+  "homepage": "https://github.com/karu724/HoneyBee-1",
   "bugs": {
-    "url": "https://github.com/karu724/HoneyBee/issues"
+    "url": "https://github.com/karu724/HoneyBee-1/issues"
   },
   "private": true,
   "main": "index.js",
@@ -53,6 +53,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karu724/HoneyBee.git"
+    "url": "git+https://github.com/karu724/HoneyBee-1.git"
   }
 }

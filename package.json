@@ -34,7 +34,7 @@
     "electron-updater": "^4.6.5",
     "fs-extra": "^10.0.1",
     "github-syntax-dark": "^0.5.0",
-    "got": "^11.8.3",
+    "got": "^11.8.5",
     "helios-core": "~0.1.0",
     "iconv-lite": "^0.6.3",
     "jquery": "^3.6.0",
